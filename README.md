@@ -14,6 +14,7 @@ Using Splinter and HTML parsing with Beautiful Soup in [part_1_mars_news.ipynb j
         - Store each title-and-preview pair in a Python dictionary. And, give each dictionary two keys: title and preview
         - Store all the dictionaries in a Python list
         - Print the list in your notebook
+4. the final data was exported to a JSON file [mars_news.json](https://github.com/vzhang90/Mission-to-Mars/blob/main/mars_news.json)
 
 ### **Scrape and Analyze Mars Weather Data**
 The code in the jupyter file [par_2_mars_weather.ipynb](https://github.com/vzhang90/Mission-to-Mars/blob/main/part_2_mars_weather.ipynb) scrapes and analyzes Mars weather data following these steps:
