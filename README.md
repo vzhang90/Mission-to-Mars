@@ -44,4 +44,4 @@ The code in the jupyter file [par_2_mars_weather.ipynb](https://github.com/vzhan
     - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
         - Consider how many days elapse on Earth in the time that Mars circles the Sun once
         - Visually estimate the result by plotting the daily minimum temperature
-6. export the DataFrame to a CSV file
+6. export the DataFrame to CSV file [mars_weather_data.csv](https://github.com/vzhang90/Mission-to-Mars/blob/main/mars_weather_data.csv)
